@@ -1,6 +1,8 @@
 # random
 # 💫 About Me:
-Aritifical Intelligence and Data Science <br>python, java, sql<br>
+Hey im Saranya!!
+Aritifical Intelligence and Data Science <br>
+python, java, sql<br>
 
 
 ## 🌐 Socials:
